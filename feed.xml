@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2023-03-31T20:00:00-04:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>April Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2023/news/april-meetups/"/>
+    <id>http://papers-we-love.github.io/2023/news/april-meetups/</id>
+    <published>2023-03-31T20:00:00-04:00</published>
+    <updated>2023-04-05T20:45:59-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for April across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 4/13&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-vienna/events/292308805/"&gt;April: The Exponential Time Hypothesis (How hard is k-SAT?)&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>March Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2023/news/march-meetups/"/>
+    <id>http://papers-we-love.github.io/2023/news/march-meetups/</id>
+    <published>2023-02-28T19:00:00-05:00</published>
+    <updated>2023-03-11T14:25:19-05:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for March across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Buenos Aires 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/291845462/"&gt;Aplicación de redes neuronales en la detección de ataques epilépticos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Portland 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-pdx/events/290965081/"&gt;Named Data Networking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Buenos Aires 3/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-buenos-aires/events/291985065/"&gt;Tendermint: Consensus without Mining&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 3/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-vienna/events/291977783/"&gt;March: NixOS, A Purely Functional Linux Distribution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Milano 3/28&lt;/strong&gt;: &lt;a href="https://www.eventbrite.it/e/systems-programming-distributed-systems-and-people-who-love-reading-papers-tickets-574315151077"&gt;Systems programming, distributed systems and people who love reading papers&lt;/a&gt;
+   &lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Dan Bentley on The Connection Machine</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/dan-bentley-connection-machine/"/>
+    <id>http://papers-we-love.github.io/2018/video/dan-bentley-connection-machine/</id>
+    <published>2018-09-03T20:00:00-04:00</published>
+    <updated>2023-03-11T15:18:11-05:00</updated>
+    <author>
+      <name>Flava Flav</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/zD-UYbm8Ksg" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---september-4th-2018"&gt;New York - September 4th, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/2PqDdMj"&gt;http://bit.ly/2PqDdMj&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt;&lt;a href="http://bit.ly/2INKnrt"&gt;http://bit.ly/2INKnrt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Connection Machine is a computer that a time traveler borrowed from 2015 and accidentally returned to the wrong decade. How else to explain a 1985 computer with 65,536 processors? That's motivated by doing computer vision? We'll cover The Connection Machine (Danny Hillis's Ph.D. thesis) and the related "Data Parallel Algorithms" in discussing this provocative technological vision. The big question: how did the Connection Machine get so much right but end up a footnote?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dan Bentley's a software engineer building Live Development as CEO of Windmill. He's opened for The Who, and has a check from Donald Knuth.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Matthew Bergman on COMPUTING MACHINERY AND INTELLIGENCE</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/matthew-bergman-computing-machinery/"/>
+    <id>http://papers-we-love.github.io/2018/video/matthew-bergman-computing-machinery/</id>
+    <published>2018-09-03T20:00:00-04:00</published>
+    <updated>2023-03-11T15:18:11-05:00</updated>
+    <author>
+      <name>Flava Flav</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Mq44fE7b9GU" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---september-4th-2018"&gt;New York - September 4th, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="http://bit.ly/2PqDdMj"&gt;http://bit.ly/2PqDdMj&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt;&lt;a href="http://bit.ly/2pITFfx"&gt;http://bit.ly/2pITFfx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;68 years ago MIND published &lt;a href="https://www.csee.umbc.edu/courses/471/papers/turing.pdf"&gt;'COMPUTING MACHINERY AND INTELLIGENCE'&lt;/a&gt; the paper that would gift the world 'The Turing Test'. Everyone knows it, everyone can give the basics of what the turning test is; or at least they think they do.&lt;/p&gt;
+
+&lt;p&gt;What exactly is the Imitation Game, how was it framed, and what did Alan Turning actually care about when he proposed this idea? Lets explore together, section by section and see how this paper informed AI in the past and where it is still taking AI today.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Matthew Bergman is a polyglot programmer who cares way more about people and ethics then the code he writes. He is well versed in Ruby on Rails and Western philosophy, especially Hegelian philosophy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Gwen Shapira on Peeking Behind the Curtains of Serverless Frameworks</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/gwen-shapira-serverless-frameworks/"/>
+    <id>http://papers-we-love.github.io/2018/video/gwen-shapira-serverless-frameworks/</id>
+    <published>2018-08-31T20:00:00-04:00</published>
+    <updated>2023-03-11T15:18:11-05:00</updated>
+    <author>
+      <name>Tupac Shakur</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/H2qFJwLVKS8" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="san-francisco---september-2018"&gt;San Francisco - September 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gwen Schapira on &lt;a href="https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf"&gt;Peeking Behind the Curtains of Serverless Frameworks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gwen Shapira is a principal data architect at Confluent, previously an engineer at Cloudera. She's committer of the Apache Kafka project and author of "Kafka - the definitive guide".&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mini&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Michael Kehoe on &lt;a href="https://arxiv.org/pdf/1802.07222.pdf"&gt;Democratically Finding The Cause of Packet Drops&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Michael Kehoe is a Staff SRE at LinkedIn who works on building scalable monitoring infrastructure, reliability principles and incident management. Michael previously interned at NASA Ames on their PhoneSat project. Michael's key interests lie in network engineering and automation.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Aaron Goldman on Chord</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/aaron-goldman-chord/"/>
+    <id>http://papers-we-love.github.io/2018/video/aaron-goldman-chord/</id>
+    <published>2018-07-31T20:00:00-04:00</published>
+    <updated>2023-03-11T15:18:11-05:00</updated>
+    <author>
+      <name>Tupac Shakur</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/mtfnCBJCROE" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="san-francisco---august-2018"&gt;San Francisco - August 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aaron Goldman on &lt;a href="https://www.cc.gatech.edu/classes/AY2007/cs7260_spring/papers/chord.pdf"&gt;Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a foundational paper in the area of Distributed Hash Tables (DHTs). Chord is a Key/Value store that guarantees queries make a logarithmic number hops and that keys are well balanced. This DHT paper should be in the mine of anyone building large-scale fault tolerant systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Aaron Goldman did his graduate work at the Georgia Institute of Technology where he studied Electrical and Computer Engineering. He has worked on radar systems for the US Department of Defense, Anti Abuse at Google, and Runtime Application Self Protection at tCell. In his spare time he is building a new internet out of immutable data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mini&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Max Seiden on &lt;a href="https://arxiv.org/pdf/cs/0701155.pdf"&gt;Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In under 15 pages, this paper describes the first principles of OLAP with such clarity and foresight that, over 20 years later, it's direct contributions are still highly relevant to anyone building products and technologies in the analytics space.&lt;/p&gt;
+
+&lt;p&gt;Max is a systems engineer with a deep interest in making information accessible to anyone with a question. He's currently at Sigma Computing, where he spends most of his time hacking on query compilation, optimization, and code generation. Before Sigma, he was at Platfora (now Workday) working on data cubes and materialized views using Spark, MapReduce, and the bundle-of-joy that is the Hadoop Ecosystem. Max received a bachelors in computer science from the University of Michigan. When he isn't writing code, you can hear him playing 🎷 in @thefellswoop (instagram)&lt;/p&gt;
+</content>
+  </entry>
+</feed>
